@@ -1,3 +1,16 @@
+
+
+
+Random Programs (Games, Lists, Exercises) is designed for exact that: 
+The Random, insignificant programs I make to develop a better understanding of object oriented programming. 
+All are functional, but not are all useful. Actually none are. That's the good stuff. 
+Enjoy!
+
+
+
+
+Tic Tac Toe Program: 
+
 Welcome to the "Tic Tac Toe" Program. 
 For all intensive purposes, this speicific code is practice in object oriented programming utilizing Python 3. 
 It is common practice to develop micro programs like this to isolate specific concepts and feel more familiar with them. 
