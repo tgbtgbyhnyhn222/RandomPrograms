@@ -24,5 +24,3 @@ In my next project, I'll elaborate more on the aforementioned topics and also, p
 You can give the "Tic Tac Toe" Program a try, since it is a simple two person game. 
 Make your first move, and see if you win! 
 
-Best, 
-Anna 
